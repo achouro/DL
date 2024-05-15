@@ -1,1 +1,2 @@
-resnet50 data over the limit (250mb)
+Please refer to the link below:
+https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet50.py
